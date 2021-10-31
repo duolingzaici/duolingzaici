@@ -1,0 +1,23 @@
+body {
+
+    background:url("110.jpg");
+    background-size:cover;
+        
+        padding: 10vh 10vw;
+      }
+      
+      h1 {
+        
+        font-size    : 3em;
+        margin-bottom: .8em;
+        color: #22aa00;
+      }
+      
+      h2 {
+        font-size    : 2em;
+        margin-bottom: 1.4em;
+        color: #aaa700;
+      }
+      
+      
+}

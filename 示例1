@@ -1,0 +1,21 @@
+
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>个人主页</title>
+</head>
+<body>
+    <h1>你好</h1>
+  <h2>
+    My name is <span id="name">steve</span> <span id="sex"></span>
+  </h2>
+     
+<canvas width="1777" height="841" style="position: fixed; left: 0px; top: 0px; z-index: 2147483647; pointer-events: none;"></canvas>
+<script src="https://cdn.jsdelivr.net/gh/SGYZ0910/CDN@1.0.7/js/maodian.js"></script>
+
+<script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1280506927'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1280506927%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+
+</body>
+</html>
